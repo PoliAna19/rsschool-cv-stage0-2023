@@ -1,4 +1,4 @@
-![photo](/rsschool-cv/photo-cv.jpg)
+<img src="https://github.com/PoliAna19/rsschool-cv/blob/gh-pages/photo-cv.jpg?raw=true" width="200" height="280">
 
 # Anastasiya Paliachok
 ***
@@ -52,9 +52,9 @@ body{
 ***
 
 ## Languages
-* English - Advnced (C1) (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
+* English - Advanced (C1) (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
 
-![test-result](/rsschool-cv/EFSET-result.jpg)
+<img src="https://github.com/PoliAna19/rsschool-cv/blob/gh-pages/EFSET-result.jpg?raw=true">
 
 * Spanish
 * Italian
