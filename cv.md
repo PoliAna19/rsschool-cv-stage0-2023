@@ -1,4 +1,4 @@
-![photo](/photo-cv.jpg)
+![photo](/rsschool-cv/photo-cv.jpg)
 
 # Anastasiya Paliachok
 ***
@@ -38,5 +38,25 @@ body{
     justify-content: space-between;
     }
 ```
+***
+
+## My strengths
+* Task prioritization
+* Goal orientation
+* Teamwork
+* Communication skills
+* Analitical thinking
+
+***
+
+## Languages
+* English - Advnced (C1) (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
+
+![test-result](/rsschool-cv/EFSET-result.jpg)
+
+* Spanish
+* Italian
+* Slovak
+
 
 
