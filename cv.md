@@ -25,6 +25,8 @@
 * HTML
 * CSS
 * JavaScript
+* VSCode
+* Git, GitHub
 
 ***
 
